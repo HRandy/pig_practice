@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wizad_ETL_pig_UDF">
+    <output-path>$PROJECT_DIR$/out/artifacts/wizad_ETL_pig_UDF</output-path>
+    <root id="archive" name="wizad_ETL_pig_UDF.jar">
+      <element id="module-output" name="wizad_ETL_pig_UDF" />
+    </root>
+  </artifact>
+</component>

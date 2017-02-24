@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/usr/lib/pig/pig.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/pig/pig-0.11.0-cdh4.7.0.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/pig/pig-0.11.0-cdh4.7.0-smoketests.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/pig/pig-0.11.0-cdh4.7.0-withouthadoop.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/pig/piggybank.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

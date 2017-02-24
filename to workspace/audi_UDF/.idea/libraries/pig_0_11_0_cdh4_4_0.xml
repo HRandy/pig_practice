@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="pig-0.11.0-cdh4.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../pig-0.11.0-cdh4.4.0/pig-0.11.0-cdh4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../hive-0.10.0-cdh4.4.0/lib/hive-common-0.10.0-cdh4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../hive-0.10.0-cdh4.4.0/lib/hive-exec-0.10.0-cdh4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../hive-0.10.0-cdh4.4.0/lib/hive-serde-0.10.0-cdh4.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../pig-0.11.0-cdh4.4.0/pig-0.11.0-cdh4.4.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
